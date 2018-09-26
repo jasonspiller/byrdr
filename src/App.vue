@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue';
-import BirdPhotos from '@/components/BirdPhotos';
+import HelloWorld from '. /components/HelloWorld.vue';
+import BirdPhotos from './components/BirdPhotos';
 
 export default {
   name: 'app',
